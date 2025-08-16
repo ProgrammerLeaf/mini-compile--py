@@ -4,7 +4,7 @@ Mini Compiler(py) 是一个轻量级的编译器项目，支持将简单的自�
 
 未来会有其他语言的版本，敬请期待。
 
-目前有C语言版本<[ProgrammerLeaf/mini-complie-C: 一个用C语言写的微型编译器](https://github.com/ProgrammerLeaf/mini-complie-C)>
+目前有C语言版本[ProgrammerLeaf/mini-complie-C: 一个用C语言写的微型编译器](https://github.com/ProgrammerLeaf/mini-complie-C)
 
 ## 支持平台
 
